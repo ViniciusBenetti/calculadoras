@@ -1,0 +1,111 @@
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.0rem;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+
+}
+
+#Calcs{
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.DisplayC:hover{
+    transition: all 0.3s ease-in-out;
+    background: black;
+    color: white;
+
+
+}
+.DisplayC{
+    display: flex;
+    flex-direction: column;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    height: 15vh;
+    color: black;
+    background: white;
+    justify-content: center;
+    width: 100vw;
+}
+#listaC{
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: 'Open Sans',sans-serif;
+    letter-spacing: 2px;
+    font-size: 15px;
+    transition: all 0.3s ease-in-out;
+
+}
+#Cporcentagem{
+    flex-direction: column;
+    margin-top: 60px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 600;
+    font-size: 0.7rem;
+    display: none;
+}
+#Ctempo{
+    flex-direction: column;
+    margin-top: 60px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 600;
+    font-size: 0.7rem;
+    display: none;
+
+}
+#Inputporcentagem{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+#Inputporcentagem input{
+    padding: 5px;
+    margin-bottom: 15px;
+}
+#Cporcentagem button{
+    background: black;
+    color: white;
+    border-radius: 5px;
+    height: 32px;
+    
+}
+#Inputtempo{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+
+}
+#Ctempo button{
+    background: black;
+    color: white;
+    border-radius: 5px;
+    height: 32px;
+    
+}
+#Inputtempo input{
+    padding: 5px;
+    margin-bottom: 15px;
+
+}
+#Inputtempo select{
+    margin-bottom: 15px;
+    height: 32px;
+
+}
+
+
+
+
+

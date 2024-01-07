@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.0rem;
+    display: block;
+}
+#inicio{
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.9rem;
+}
+
+#calc{
+    width: 400px;
+    height: 500px;
+    border-radius: 23px;
+    margin-top: 30px;
+    
+}
+

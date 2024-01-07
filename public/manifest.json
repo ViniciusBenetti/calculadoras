@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "CALCULADORAS",
+  "name": "Várias calculadoras em um lugar só",
   "icons": [
     {
       "src": "favicon.ico",
@@ -13,7 +13,7 @@
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://viniciusbenetti.github.io/web-src/Logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
