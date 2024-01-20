@@ -13,9 +13,7 @@ export default function Calculadoras() {
               DATA INICIAL:
               <input type='datetime-local' id='datainicial' />
               DATA FINAL:
-              <input type='datetime-local' id='datafinal' />
-              TEMPO:
-              <input type='text' readOnly={true} id='saida' />
+              <input type='datetime-local' id='datafinal' />    
               SELECIONAR FORMATO:
               <select id='formato'>
                 <option>ANOS</option>
@@ -26,6 +24,8 @@ export default function Calculadoras() {
                 <option>MINUTOS</option>
                 <option>SEGUNDOS</option>
               </select>
+              TEMPO:
+              <input type='text' readOnly={true} id='saida' />
 
             </div>
             <button type='button' onClick={function(){
