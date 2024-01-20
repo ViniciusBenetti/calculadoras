@@ -5,13 +5,14 @@ h1{
 }
 #contato{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin-top: 90px;
     text-align: justify;
     justify-content: center;
     align-items: center;
 }
 #contato img{
+    display: flex;
     margin-left: 20px;
     width: 45px;
     height: 45px;
