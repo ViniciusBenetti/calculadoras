@@ -30,4 +30,9 @@ p{
     margin-top: 30px;
     
 }
+#exemplo{
+    width: 600px;
+    height: 500px;
+    border: solid 4px black;
+}
 
