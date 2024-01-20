@@ -3,6 +3,12 @@ h1{
     font-size: 2.0rem;
     display: block;
 }
+h2{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.0rem;
+    margin-top: 40px;
+}
 #inicio{
     display: flex;
     flex-direction: column;
