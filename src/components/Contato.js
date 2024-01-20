@@ -6,13 +6,13 @@ export default function Contato(){
             
             <h1>CONTATO</h1>
             <a href="https://instagram.com/vinix_dev" target="_blank">
-            <img src="../../public/instagram.png" alt="insta" style="width: 45px; height: 45px; margin-left:20px;" />
+            <img src="../../public/instagram.png" alt="insta"/>
             </a>
             <a href="https://www.linkedin.com/in/vinicius-benetti-costa/" target="_blank">
-            <img src="../../public/linkedin.png" alt="linkedin" style="width: 45px; height: 45px;margin-left:20px;"/>
+            <img src="../../public/linkedin.png" alt="linkedin"/>
             </a>
             <a href="https://www.facebook.com/profile.php?id=61553699226818" target="_blank">
-            <img src="../../public/facebook.png" alt="fb" style="width: 45px; height: 45px;margin-left:20px;"/>
+            <img src="../../public/facebook.png" alt="fb"/>
             </a>
 
         </div>  
