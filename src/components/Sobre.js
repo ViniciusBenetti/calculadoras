@@ -1,6 +1,6 @@
 import './Sobre.css'
 
-export default function sobre(){
+export default function Sobre(){
     return(
         <div id='sobre'>
             <h1>QUEM SOMOS?</h1>

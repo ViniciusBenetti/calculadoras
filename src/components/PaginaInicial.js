@@ -18,7 +18,9 @@ export default function PaginaInicial(){
             <p>Para usar o aplicativo, primeiro vá até "calculadoras" e selecione a calculadora desejada.
                 Para cada calculadora, digite os valores de entrada e aperte em "calcular", o resultado irá
                 sair no último campo após pressionado o botão.
+
             </p>
+            <img id="exemplo"  alt='exemplo' src='https://viniciusbenetti.github.io/web-src/exemplo.png'/>
 
         </div>
         
